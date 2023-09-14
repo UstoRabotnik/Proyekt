@@ -1,0 +1,24 @@
+
+  body {
+text-align: center;
+}
+p {
+font-family: cursive;
+font-size: 20px;
+color: #00fa9a;
+}
+img {
+border-radius: 30px
+}
+.popito {
+margin: 0 60px 60px 60px;
+height: 200px;
+ width: 200px;
+border-radius: 0 75px 0 75px;
+}
+.popiti {
+margin: 0 60px 60px 60px;
+height: 200px;
+ width: 200px;
+border-radius: 75px 0 75px 0;
+}
